@@ -1,0 +1,7 @@
+TO RUN BACKEND:
+cd C:\dl\Code\Backend
+python -m uvicorn main:app --host 127.0.0.1 --port 8000 --reload
+
+TO RUN FRONTEND:
+cd C:\dl\Code\FrontEnd
+npm run dev
